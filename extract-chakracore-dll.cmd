@@ -1,0 +1,1 @@
+7z e chakracore.zip lib\native\v140\x64\release\ChakraCore.dll -oChakraCore_x64.dll

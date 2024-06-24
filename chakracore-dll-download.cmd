@@ -1,0 +1,1 @@
+curl -L --output chakracore.zip https://www.nuget.org/api/v2/package/Microsoft.ChakraCore.vc140/1.11.24
